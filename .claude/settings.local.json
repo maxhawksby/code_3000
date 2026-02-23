@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/CSE3000/code_3000/3000-env/Scripts/python.exe:*)",
+      "Bash(/c/CSE3000/code_3000/3000-env/Scripts/pip.exe install:*)"
+    ]
+  }
+}
